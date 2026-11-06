@@ -1,3 +1,4 @@
 # pyStats
-Implementation of Statistics in Python
+Implementation of Statistics in Python:
+
 a. MANOVA
